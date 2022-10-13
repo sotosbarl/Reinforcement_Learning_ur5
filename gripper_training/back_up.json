@@ -1,0 +1,3457 @@
+(dp0
+(S"distance9['right', 'front', 'up']FalseFalse4"
+p1
+I7
+tp2
+F-688.0
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p3
+I2
+tp4
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p5
+I13
+tp6
+I-1400
+s(S"distance16['right', 'front', 'up']FalseTrue1"
+p7
+I6
+tp8
+I400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p9
+I9
+tp10
+F-879.1130439745482
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p11
+I6
+tp12
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue3"
+p13
+I12
+tp14
+I-900
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p15
+I11
+tp16
+I-1400
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p17
+I12
+tp18
+I-1400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p19
+I11
+tp20
+F-900.0
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p21
+I10
+tp22
+F-1096.3120792825362
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p23
+I5
+tp24
+F-715.26649756089
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p25
+I11
+tp26
+I-2400
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p27
+I0
+tp28
+F-972.4088518054479
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p29
+I1
+tp30
+F-2123.2157165465865
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p31
+I7
+tp32
+F-882.774627535471
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p33
+I12
+tp34
+F-827.6
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p35
+I2
+tp36
+F-1343.095714422821
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p37
+I6
+tp38
+I-400
+s(S"distance15['right', 'front', 'up']FalseTrue1"
+p39
+I2
+tp40
+F-291.20000000000005
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p41
+I5
+tp42
+F-876.2679537150145
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p43
+I13
+tp44
+I-900
+s(S"distance6['right', 'front', 'up']FalseTrue1"
+p45
+I5
+tp46
+I-400
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p47
+I5
+tp48
+F-719.1632805230091
+s(S"distance1['left', 'front', 'up']FalseFalse4"
+p49
+I6
+tp50
+F-53.39479688705666
+s(S"distance15['right', 'front', 'up']FalseTrue2"
+p51
+I6
+tp52
+I-2400
+s(S"distance14['left', 'front', 'up']FalseTrue3"
+p53
+I6
+tp54
+I-400
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p55
+I13
+tp56
+F-718.016288
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p57
+I9
+tp58
+F-973.8148120035253
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p59
+I7
+tp60
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p61
+I4
+tp62
+F120.0
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p63
+I6
+tp64
+F-1030.0364356685652
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p65
+I5
+tp66
+F-719.68
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p67
+I1
+tp68
+I-2800
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p69
+I3
+tp70
+I-2400
+s(S"distance15['right', 'back', 'up']FalseTrue1"
+p71
+I10
+tp72
+I400
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p73
+I13
+tp74
+I-900
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p75
+I2
+tp76
+I-1400
+s(S"distance15['right', 'back', 'up']FalseTrue2"
+p77
+I3
+tp78
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p79
+I8
+tp80
+F-1267.8336886611378
+s(S"distance7['left', 'front', 'up']FalseTrue3"
+p81
+I11
+tp82
+I-900
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p83
+I5
+tp84
+F-693.0640132019239
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p85
+I2
+tp86
+F-797.3773160947123
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p87
+I5
+tp88
+I-400
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p89
+I12
+tp90
+F-890.6
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p91
+I4
+tp92
+F-679.1780000000001
+s(S"distance7['right', 'front', 'up']FalseTrue2"
+p93
+I5
+tp94
+F-21.39308717323108
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p95
+I11
+tp96
+I-2900
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p97
+I9
+tp98
+F-2170.3142378155585
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p99
+I0
+tp100
+F912.5261523717481
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p101
+I13
+tp102
+I-900
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p103
+I8
+tp104
+I-400
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p105
+I10
+tp106
+F-1596.8272124066846
+s(S"distance6['left', 'front', 'up']FalseTrue3"
+p107
+I8
+tp108
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p109
+I3
+tp110
+F-227.16433514111324
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p111
+I12
+tp112
+I-900
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p113
+I9
+tp114
+I-2400
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p115
+I7
+tp116
+F-541.958238743455
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p117
+I10
+tp118
+F-688.0
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p119
+I12
+tp120
+F-842.0
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p121
+I7
+tp122
+F-816.3226688
+s(S"distance12['right', 'back', 'up']FalseTrue2"
+p123
+I6
+tp124
+F419.56705035714236
+s(S"distance7['left', 'front', 'up']FalseTrue3"
+p125
+I0
+tp126
+I-400
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p127
+I11
+tp128
+I-3400
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p129
+I0
+tp130
+F-912.6319615238837
+s(S"distance11['right', 'back', 'up']FalseTrue2"
+p131
+I4
+tp132
+I400
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p133
+I6
+tp134
+F-1024.485057648925
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p135
+I7
+tp136
+F-681.9767332877595
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p137
+I2
+tp138
+F-783.8331587389888
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p139
+I4
+tp140
+F-640.1341050238091
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p141
+I1
+tp142
+F-27.225748433258843
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p143
+I3
+tp144
+F224.13535713608016
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p145
+I9
+tp146
+F-915.6331280983156
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p147
+I6
+tp148
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p149
+I1
+tp150
+F-904.8359807251472
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p151
+I2
+tp152
+I-1400
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p153
+I8
+tp154
+I-2400
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p155
+I10
+tp156
+F-688.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p157
+I5
+tp158
+F-676.6668079711733
+s(S"distance6['right', 'front', 'up']FalseTrue2"
+p159
+I3
+tp160
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p161
+I7
+tp162
+F-569.5965782337186
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p163
+I4
+tp164
+F-724.3681186656117
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p165
+I6
+tp166
+F-2176.8861280443807
+s(S"distance1['left', 'front', 'up']FalseFalse4"
+p167
+I0
+tp168
+F226.208
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p169
+I9
+tp170
+F-903.3617665567301
+s(S"distance9['right', 'front', 'up']FalseTrue3"
+p171
+I1
+tp172
+I-400
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p173
+I12
+tp174
+I-1400
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p175
+I3
+tp176
+F-688.0
+s(S"distance13['right', 'back', 'up']FalseTrue2"
+p177
+I1
+tp178
+F431.965426
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p179
+I6
+tp180
+F-910.0710490108008
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p181
+I12
+tp182
+I-1400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p183
+I8
+tp184
+I-2400
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p185
+I3
+tp186
+F-70.08850702932335
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p187
+I4
+tp188
+I-1800
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p189
+I6
+tp190
+F-646.0904067229073
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p191
+I10
+tp192
+F-869.2587637886498
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p193
+I9
+tp194
+F-740.2151874702662
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p195
+I7
+tp196
+F-1087.0621079297634
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p197
+I0
+tp198
+F-784.8676280451256
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p199
+I11
+tp200
+I-900
+s(S"distance14['right', 'back', 'up']FalseTrue2"
+p201
+I8
+tp202
+I-400
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p203
+I0
+tp204
+F-842.5541385872473
+s(S"distance7['right', 'front', 'up']FalseTrue1"
+p205
+I4
+tp206
+F-101.76065848648841
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p207
+I0
+tp208
+F-924.16
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p209
+I11
+tp210
+I-900
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p211
+I5
+tp212
+F-400.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p213
+I12
+tp214
+I-900
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p215
+I0
+tp216
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p217
+I10
+tp218
+F-924.16
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p219
+I13
+tp220
+F-899.8400015942
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p221
+I8
+tp222
+F-942.8492045125704
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p223
+I7
+tp224
+F-2170.2475348683884
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p225
+I13
+tp226
+I-2400
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p227
+I8
+tp228
+F-630.4
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p229
+I1
+tp230
+F-1466.3753062133544
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p231
+I2
+tp232
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p233
+I4
+tp234
+F-567.1843070839691
+s(S"distance15['right', 'front', 'up']FalseTrue1"
+p235
+I4
+tp236
+I400
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p237
+I11
+tp238
+I-1400
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p239
+I13
+tp240
+I-1400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p241
+I5
+tp242
+F-149.99287170465138
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p243
+I5
+tp244
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p245
+I6
+tp246
+F-210.85382400000003
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p247
+I4
+tp248
+F-1191.7390167349126
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p249
+I3
+tp250
+F-933.2731230229426
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p251
+I11
+tp252
+I-900
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p253
+I3
+tp254
+F-499.22222393692357
+s(S"distance16['right', 'front', 'up']FalseTrue2"
+p255
+I0
+tp256
+I-400
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p257
+I1
+tp258
+F-2181.866740847655
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p259
+I4
+tp260
+F-974.6240273907506
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p261
+I10
+tp262
+F-544.3888679807692
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p263
+I13
+tp264
+I-2900
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p265
+I13
+tp266
+I-900
+s(S"distance1['left', 'front', 'up']FalseTrue1"
+p267
+I6
+tp268
+I200
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p269
+I0
+tp270
+F-1006.4916354086446
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p271
+I7
+tp272
+F-916.6721163467203
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p273
+I0
+tp274
+F-711.04
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p275
+I11
+tp276
+I-1400
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p277
+I7
+tp278
+F-1030.6472221784315
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p279
+I0
+tp280
+F-991.9716618819452
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p281
+I10
+tp282
+F-773.8473063623592
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p283
+I6
+tp284
+F-2115.834379234002
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p285
+I13
+tp286
+I-1400
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p287
+I12
+tp288
+F-652.3199999999999
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p289
+I7
+tp290
+F-2033.6679140527062
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p291
+I6
+tp292
+I400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p293
+I10
+tp294
+I-400
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p295
+I4
+tp296
+I-2400
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p297
+I5
+tp298
+F-399.996472
+s(S"distance14['left', 'front', 'up']FalseTrue1"
+p299
+I13
+tp300
+I-1900
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p301
+I7
+tp302
+F-664.6088370728487
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p303
+I13
+tp304
+F-2684.9324001584
+s(S"distance6['right', 'front', 'up']FalseTrue2"
+p305
+I8
+tp306
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p307
+I2
+tp308
+F-785.8275546746123
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p309
+I3
+tp310
+F-869.924426966219
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p311
+I11
+tp312
+I-1400
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p313
+I12
+tp314
+I-900
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p315
+I1
+tp316
+I-800
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p317
+I4
+tp318
+F-895.36
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p319
+I1
+tp320
+F-2098.6149307642063
+s(S"distance1['left', 'front', 'up']FalseTrue2"
+p321
+I2
+tp322
+I200
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p323
+I1
+tp324
+F-1508.8000000000002
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p325
+I9
+tp326
+F-931.7612762823353
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p327
+I12
+tp328
+I-1400
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p329
+I8
+tp330
+F-688.0
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p331
+I13
+tp332
+I-1400
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p333
+I13
+tp334
+I-2400
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p335
+I0
+tp336
+F-984.3859339509269
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p337
+I5
+tp338
+F-838.6628706289441
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p339
+I0
+tp340
+F-828.0358587037083
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p341
+I13
+tp342
+I-900
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p343
+I7
+tp344
+I-2400
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p345
+I0
+tp346
+F-664.6088370728487
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p347
+I8
+tp348
+F-688.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p349
+I3
+tp350
+F-699.0490598710253
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p351
+I2
+tp352
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p353
+I5
+tp354
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p355
+I10
+tp356
+F-821.5900546390933
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p357
+I0
+tp358
+F-257.0171079642532
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p359
+I11
+tp360
+I-900
+s(S"distance9['right', 'front', 'up']FalseTrue3"
+p361
+I3
+tp362
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p363
+I8
+tp364
+F-1075.8383093862399
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p365
+I13
+tp366
+I-1400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p367
+I10
+tp368
+F-521.3921064487268
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p369
+I8
+tp370
+I-1400
+s(S"distance14['left', 'front', 'up']FalseFalse4"
+p371
+I11
+tp372
+I4800
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p373
+I1
+tp374
+I-1600
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p375
+I5
+tp376
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p377
+I4
+tp378
+I-2400
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p379
+I4
+tp380
+F-889.4749974991844
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p381
+I11
+tp382
+F-756.0
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p383
+I1
+tp384
+F-1273.64894209032
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p385
+I9
+tp386
+I-400
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p387
+I6
+tp388
+F-918.6232791258132
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p389
+I6
+tp390
+F-814.4961592128229
+s(S"distance11['right', 'back', 'up']FalseTrue2"
+p391
+I1
+tp392
+I-1800
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p393
+I9
+tp394
+F-918.1700844981528
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p395
+I9
+tp396
+F-870.7361410837019
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p397
+I3
+tp398
+F-688.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p399
+I10
+tp400
+F-685.0401795611178
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p401
+I7
+tp402
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p403
+I9
+tp404
+F432.8123362333087
+s(S"distance16['right', 'front', 'up']FalseTrue1"
+p405
+I10
+tp406
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p407
+I13
+tp408
+I-1400
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p409
+I5
+tp410
+F-544.1591481128557
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p411
+I2
+tp412
+F-400.0
+s(S"distance10['left', 'back', 'up']FalseTrue1"
+p413
+I8
+tp414
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p415
+I8
+tp416
+F-924.16
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p417
+I0
+tp418
+I-400
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p419
+I6
+tp420
+F-1336.2425588184785
+s(S"distance15['right', 'front', 'up']FalseFalse4"
+p421
+I0
+tp422
+I-400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p423
+I1
+tp424
+F-152.17352596744445
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p425
+I11
+tp426
+F-950.0
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p427
+I13
+tp428
+I-3400
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p429
+I13
+tp430
+I-1400
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p431
+I8
+tp432
+F-239.45999999999998
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p433
+I3
+tp434
+F-1329.6395513861355
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p435
+I0
+tp436
+F-813.3438783656368
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p437
+I0
+tp438
+I-400
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p439
+I6
+tp440
+F-693.1025373571897
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p441
+I2
+tp442
+I-400
+s(S"distance15['right', 'front', 'up']FalseTrue1"
+p443
+I6
+tp444
+F364.91875
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p445
+I9
+tp446
+I-2400
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p447
+I9
+tp448
+F-2093.691128060123
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p449
+I12
+tp450
+I-1400
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p451
+I3
+tp452
+F-135.65319569435167
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p453
+I7
+tp454
+I-400
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p455
+I9
+tp456
+F-1628.933242611712
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p457
+I11
+tp458
+I-900
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p459
+I0
+tp460
+F269.2656335082182
+s(S"distance6['right', 'front', 'up']FalseTrue3"
+p461
+I8
+tp462
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p463
+I2
+tp464
+F-1714.7510742956483
+s(S"distance14['right', 'front', 'up']FalseTrue2"
+p465
+I10
+tp466
+F-20.610773678315816
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p467
+I9
+tp468
+F-943.1795096320001
+s(S"distance10['left', 'front', 'up']FalseTrue3"
+p469
+I11
+tp470
+I-900
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p471
+I12
+tp472
+I-1400
+s(S"distance15['left', 'back', 'up']FalseTrue2"
+p473
+I11
+tp474
+I-900
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p475
+I9
+tp476
+I-400
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p477
+I6
+tp478
+F-532.7731524670371
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p479
+I4
+tp480
+F292.0
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p481
+I2
+tp482
+F-1042.2635226022458
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p483
+I6
+tp484
+F-714.4176071435048
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p485
+I9
+tp486
+I-2400
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p487
+I5
+tp488
+F-558.2174560355045
+s(S"distance15['right', 'front', 'up']FalseTrue3"
+p489
+I3
+tp490
+I-1400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p491
+I8
+tp492
+F-539.2571313170248
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p493
+I0
+tp494
+I-2400
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p495
+I5
+tp496
+F-913.3293080374367
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p497
+I10
+tp498
+F-925.7255016086336
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p499
+I5
+tp500
+F-1339.9350704410213
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p501
+I4
+tp502
+F281.8036606203751
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p503
+I1
+tp504
+I-2800
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p505
+I4
+tp506
+F-1526.9572675722713
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p507
+I12
+tp508
+F-320.0
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p509
+I12
+tp510
+I-900
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p511
+I1
+tp512
+F-2128.9384863827163
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p513
+I6
+tp514
+F-2109.93635251258
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p515
+I10
+tp516
+F-848.8657453220396
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p517
+I12
+tp518
+F-1220.0
+s(S"distance5['right', 'front', 'up']FalseTrue2"
+p519
+I5
+tp520
+I-400
+s(S"distance14['left', 'back', 'up']FalseTrue2"
+p521
+I0
+tp522
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p523
+I11
+tp524
+F-900.0
+s(S"distance5['right', 'front', 'up']FalseTrue3"
+p525
+I8
+tp526
+I-400
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p527
+I10
+tp528
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p529
+I0
+tp530
+F-433.535361832636
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p531
+I1
+tp532
+I-800
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p533
+I5
+tp534
+F-828.8169793932725
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p535
+I6
+tp536
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue3"
+p537
+I4
+tp538
+F-194.51449898429087
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p539
+I3
+tp540
+F-524.1131870363747
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p541
+I6
+tp542
+I-400
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p543
+I3
+tp544
+F-200.54009441773496
+s(S"distance12['right', 'back', 'up']FalseTrue2"
+p545
+I2
+tp546
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p547
+I3
+tp548
+F-975.4630651264972
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p549
+I9
+tp550
+F-2207.05949765482
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p551
+I13
+tp552
+I-1400
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p553
+I4
+tp554
+F664.9479758378591
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p555
+I6
+tp556
+F-1000.8721471750454
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p557
+I3
+tp558
+I-2400
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p559
+I4
+tp560
+F3205.8
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p561
+I2
+tp562
+F-950.0581912614989
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p563
+I3
+tp564
+F-676.1571223587716
+s(S"distance14['right', 'back', 'up']FalseTrue2"
+p565
+I13
+tp566
+I-900
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p567
+I13
+tp568
+I-1400
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p569
+I5
+tp570
+I-400
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p571
+I13
+tp572
+I-900
+s(S"distance14['left', 'back', 'up']FalseTrue2"
+p573
+I11
+tp574
+I-900
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p575
+I6
+tp576
+F-688.0
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p577
+I13
+tp578
+I-900
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p579
+I12
+tp580
+I-1400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p581
+I8
+tp582
+F-861.4841929192048
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p583
+I2
+tp584
+I-2400
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p585
+I12
+tp586
+I-900
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p587
+I5
+tp588
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue3"
+p589
+I13
+tp590
+I-900
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p591
+I8
+tp592
+F-438.8470088814558
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p593
+I13
+tp594
+I-1400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p595
+I10
+tp596
+F-1090.8483645885533
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p597
+I11
+tp598
+I-1400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p599
+I4
+tp600
+I-2400
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p601
+I10
+tp602
+F-661.3600644440778
+s(S"distance8['left', 'front', 'up']FalseTrue1"
+p603
+I5
+tp604
+I-400
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p605
+I7
+tp606
+I-400
+s(S"distance1['left', 'front', 'up']FalseTrue1"
+p607
+I12
+tp608
+I-300
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p609
+I6
+tp610
+F-1713.8620329265382
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p611
+I13
+tp612
+F-900.0
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p613
+I3
+tp614
+F-1037.2752092360436
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p615
+I7
+tp616
+F-545.9799422893374
+s(S"distance15['right', 'front', 'up']FalseTrue1"
+p617
+I3
+tp618
+I-2400
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p619
+I4
+tp620
+F538.6083466606751
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p621
+I12
+tp622
+I-1400
+s(S"distance14['left', 'back', 'up']FalseTrue2"
+p623
+I9
+tp624
+F716.7835660000001
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p625
+I4
+tp626
+F-1300.0637479186757
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p627
+I8
+tp628
+I-1800
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p629
+I10
+tp630
+F-1026.778988079596
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p631
+I0
+tp632
+I-400
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p633
+I1
+tp634
+F-524.6839559894429
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p635
+I4
+tp636
+F-663.5434671868381
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p637
+I0
+tp638
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p639
+I11
+tp640
+I-1400
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p641
+I7
+tp642
+F-1094.962155258701
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p643
+I6
+tp644
+F-947.776
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p645
+I4
+tp646
+I-2400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p647
+I3
+tp648
+F-698.125364519996
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p649
+I1
+tp650
+I-800
+s(S"distance8['left', 'front', 'up']FalseTrue1"
+p651
+I12
+tp652
+I-900
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p653
+I11
+tp654
+I-3400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p655
+I5
+tp656
+F-1052.6776519577736
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p657
+I2
+tp658
+F-853.7979398510926
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p659
+I3
+tp660
+F-934.8426490843219
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p661
+I0
+tp662
+F-528.7105683358619
+s(S"distance15['right', 'front', 'up']FalseTrue1"
+p663
+I8
+tp664
+I-400
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p665
+I11
+tp666
+I-1400
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p667
+I8
+tp668
+F-42.0
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p669
+I10
+tp670
+F-682.493822316852
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p671
+I1
+tp672
+F936.7493514765506
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p673
+I12
+tp674
+I-1400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p675
+I9
+tp676
+F-1106.300576311004
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p677
+I9
+tp678
+F-2200.0
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p679
+I11
+tp680
+F-897.51652416005
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p681
+I2
+tp682
+I-800
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p683
+I6
+tp684
+I-400
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p685
+I11
+tp686
+I-900
+s(S"distance6['right', 'front', 'up']FalseTrue2"
+p687
+I11
+tp688
+I-1400
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p689
+I4
+tp690
+F-563.8233620642886
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p691
+I11
+tp692
+I-900
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p693
+I6
+tp694
+F-675.4943892396778
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p695
+I1
+tp696
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p697
+I12
+tp698
+I-3400
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p699
+I4
+tp700
+F-898.2642573834291
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p701
+I3
+tp702
+I-2400
+s(S"distance8['left', 'front', 'up']FalseTrue2"
+p703
+I4
+tp704
+F-481.88153820909037
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p705
+I2
+tp706
+F-391.9470263459222
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p707
+I7
+tp708
+F-875.2676220402677
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p709
+I8
+tp710
+F-899.6248611476578
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p711
+I3
+tp712
+I-2400
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p713
+I3
+tp714
+F416.24482007193535
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p715
+I0
+tp716
+F-2123.7471352515777
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p717
+I8
+tp718
+F-716.8
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p719
+I8
+tp720
+I-2400
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p721
+I3
+tp722
+F-956.451844226631
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p723
+I9
+tp724
+F-985.8402191048475
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p725
+I13
+tp726
+I-900
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p727
+I4
+tp728
+F-2071.288118521487
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p729
+I6
+tp730
+F-2110.1788322844745
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p731
+I7
+tp732
+F-862.6770090995556
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p733
+I7
+tp734
+F-2148.1510203413636
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p735
+I8
+tp736
+F-400.0
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p737
+I13
+tp738
+I-1400
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p739
+I0
+tp740
+F-400.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p741
+I1
+tp742
+F-759.3533796420368
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p743
+I6
+tp744
+I-1800
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p745
+I5
+tp746
+F-952.0041280045984
+s(S"distance7['left', 'front', 'up']FalseTrue3"
+p747
+I6
+tp748
+I-400
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p749
+I2
+tp750
+I-400
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p751
+I13
+tp752
+I-1400
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p753
+I2
+tp754
+F-312.0523375
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p755
+I0
+tp756
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p757
+I1
+tp758
+F-581.2912050643905
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p759
+I9
+tp760
+F-865.9481035444006
+s(S"distance11['left', 'front', 'up']FalseTrue3"
+p761
+I3
+tp762
+F-340.38398308947956
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p763
+I6
+tp764
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p765
+I12
+tp766
+I-2400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p767
+I13
+tp768
+I-2400
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p769
+I12
+tp770
+I-900
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p771
+I3
+tp772
+F-829.9205239266533
+s(S"distance7['right', 'front', 'up']FalseTrue1"
+p773
+I5
+tp774
+I-400
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p775
+I3
+tp776
+F-983.2761708381589
+s(S"distance8['right', 'front', 'up']FalseTrue3"
+p777
+I13
+tp778
+I-900
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p779
+I12
+tp780
+I-1400
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p781
+I4
+tp782
+F-469.50319078844166
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p783
+I3
+tp784
+F-586.5760833004261
+s(S"distance6['right', 'front', 'up']FalseTrue2"
+p785
+I5
+tp786
+I-400
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p787
+I7
+tp788
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p789
+I10
+tp790
+F-930.9015096800376
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p791
+I10
+tp792
+F-538.5740164175035
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p793
+I11
+tp794
+I-900
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p795
+I12
+tp796
+F-900.0
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p797
+I9
+tp798
+F-825.8529550310614
+s(S"distance15['right', 'front', 'up']FalseFalse4"
+p799
+I13
+tp800
+F-2220.0
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p801
+I6
+tp802
+F-698.1324505100724
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p803
+I12
+tp804
+I-2400
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p805
+I9
+tp806
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p807
+I0
+tp808
+F-438.5982420296016
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p809
+I3
+tp810
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p811
+I5
+tp812
+I-400
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p813
+I12
+tp814
+I-1900
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p815
+I10
+tp816
+F-815.4893199239966
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p817
+I3
+tp818
+I-2400
+s(S"distance1['right', 'front', 'up']FalseTrue2"
+p819
+I13
+tp820
+I-1400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p821
+I2
+tp822
+F-400.0
+s(S"distance14['left', 'front', 'up']FalseTrue3"
+p823
+I7
+tp824
+F400.0
+s(S"distance13['left', 'back', 'up']FalseTrue2"
+p825
+I3
+tp826
+F48.01172411199991
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p827
+I12
+tp828
+F-2675.03432
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p829
+I6
+tp830
+I-1800
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p831
+I5
+tp832
+F489.3366611440513
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p833
+I5
+tp834
+F-1130.667336262756
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p835
+I4
+tp836
+F-810.5465856973074
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p837
+I10
+tp838
+F-338.5878944845431
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p839
+I2
+tp840
+F-966.3647962076288
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p841
+I12
+tp842
+I-900
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p843
+I3
+tp844
+F-851.803855525466
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p845
+I9
+tp846
+F-431.1503328627787
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p847
+I9
+tp848
+I-2400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p849
+I7
+tp850
+F-1117.025380431608
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p851
+I4
+tp852
+F-640.073313381058
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p853
+I1
+tp854
+F-755.2438942651972
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p855
+I4
+tp856
+F-368.43989878375555
+s(S"distance15['right', 'front', 'up']FalseTrue1"
+p857
+I10
+tp858
+I400
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p859
+I6
+tp860
+F-1300.0
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p861
+I13
+tp862
+I-1400
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p863
+I5
+tp864
+F-394.24399972810255
+s(S"distance7['right', 'front', 'up']FalseTrue2"
+p865
+I6
+tp866
+F891.1059165569983
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p867
+I10
+tp868
+I-400
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p869
+I13
+tp870
+I-900
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p871
+I8
+tp872
+F-1009.4469407239967
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p873
+I7
+tp874
+F-272.30290785001785
+s(S"distance14['right', 'back', 'up']FalseTrue2"
+p875
+I7
+tp876
+I-400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p877
+I11
+tp878
+I-900
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p879
+I5
+tp880
+F-2106.988680120831
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p881
+I0
+tp882
+F-456.402558360192
+s(S"distance6['left', 'front', 'up']FalseTrue3"
+p883
+I9
+tp884
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p885
+I7
+tp886
+F-320.0
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p887
+I1
+tp888
+F-760.2700933372033
+s(S"distance6['right', 'front', 'up']FalseTrue2"
+p889
+I9
+tp890
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p891
+I13
+tp892
+I-900
+s(S"distance3['right', 'front', 'up']FalseTrue2"
+p893
+I9
+tp894
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p895
+I2
+tp896
+F-685.1656060980806
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p897
+I8
+tp898
+F-2142.890769240023
+s(S"distance15['left', 'front', 'up']FalseTrue3"
+p899
+I11
+tp900
+I2900
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p901
+I6
+tp902
+I-1400
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p903
+I5
+tp904
+I-400
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p905
+I0
+tp906
+I-400
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p907
+I3
+tp908
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p909
+I0
+tp910
+F-920.3258855170602
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p911
+I10
+tp912
+F-717.9174223744
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p913
+I13
+tp914
+I-900
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p915
+I9
+tp916
+F-760.2911230716772
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p917
+I11
+tp918
+I-2400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p919
+I12
+tp920
+I-1400
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p921
+I12
+tp922
+I-2400
+s(S"distance11['left', 'front', 'up']FalseTrue3"
+p923
+I12
+tp924
+I-900
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p925
+I1
+tp926
+F-1960.895812524333
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p927
+I6
+tp928
+F-2200.0
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p929
+I1
+tp930
+F-1725.8879199303115
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p931
+I2
+tp932
+F-2151.192449758397
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p933
+I1
+tp934
+I-1600
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p935
+I11
+tp936
+I-900
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p937
+I2
+tp938
+F238.03149757667794
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p939
+I4
+tp940
+F-624.6621626601177
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p941
+I5
+tp942
+F-240.47748741418656
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p943
+I1
+tp944
+F-805.0129527940041
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p945
+I10
+tp946
+I-400
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p947
+I2
+tp948
+F-400.0
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p949
+I7
+tp950
+F-997.09539367936
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p951
+I9
+tp952
+F-605.006452320651
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p953
+I9
+tp954
+F-688.0
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p955
+I8
+tp956
+I-2400
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p957
+I5
+tp958
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p959
+I7
+tp960
+F-596.8885766813195
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p961
+I11
+tp962
+F-898.03656
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p963
+I8
+tp964
+F-574.1775365426914
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p965
+I6
+tp966
+F-1364.6567685096243
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p967
+I10
+tp968
+I-400
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p969
+I1
+tp970
+F-2029.3778029784794
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p971
+I13
+tp972
+I-1900
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p973
+I1
+tp974
+F-859.8656573528401
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p975
+I11
+tp976
+I-2400
+s(S"distance6['left', 'front', 'up']FalseTrue3"
+p977
+I7
+tp978
+I-400
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p979
+I10
+tp980
+F-913.7485204640807
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p981
+I9
+tp982
+F-950.2956213181228
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p983
+I2
+tp984
+F-688.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p985
+I13
+tp986
+I-900
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p987
+I2
+tp988
+I-2400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p989
+I8
+tp990
+F-189.91835999999998
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p991
+I12
+tp992
+I-1400
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p993
+I1
+tp994
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p995
+I9
+tp996
+F-940.3097347563719
+s(S"distance16['right', 'front', 'up']FalseTrue2"
+p997
+I10
+tp998
+I-400
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p999
+I7
+tp1000
+F-534.1710999449491
+s(S"distance15['left', 'front', 'up']FalseTrue3"
+p1001
+I7
+tp1002
+I-400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p1003
+I0
+tp1004
+F-665.5831919036407
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p1005
+I12
+tp1006
+I-900
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p1007
+I11
+tp1008
+F-470.0
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p1009
+I4
+tp1010
+F-931.7575638329922
+s(S"distance3['right', 'front', 'up']FalseTrue2"
+p1011
+I5
+tp1012
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p1013
+I2
+tp1014
+F-1029.0381774962148
+s(S"distance12['right', 'back', 'up']FalseTrue1"
+p1015
+I6
+tp1016
+I400
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p1017
+I1
+tp1018
+I-2800
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p1019
+I1
+tp1020
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p1021
+I3
+tp1022
+F-572.325236521408
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p1023
+I9
+tp1024
+F-1050.075626425405
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p1025
+I8
+tp1026
+F-1511.0280711541338
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p1027
+I8
+tp1028
+F-1673.8907018218108
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p1029
+I13
+tp1030
+I-1400
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p1031
+I12
+tp1032
+I-1400
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p1033
+I9
+tp1034
+I-400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p1035
+I4
+tp1036
+I-1400
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p1037
+I7
+tp1038
+I-1800
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p1039
+I4
+tp1040
+F452.73463548183616
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p1041
+I8
+tp1042
+F-715.0463664343454
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p1043
+I7
+tp1044
+F638.0953985001984
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p1045
+I4
+tp1046
+F-860.6520703171891
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p1047
+I3
+tp1048
+F-953.4898205451434
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p1049
+I2
+tp1050
+F-876.935098834554
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p1051
+I8
+tp1052
+F-2186.8053480107883
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p1053
+I1
+tp1054
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p1055
+I13
+tp1056
+I-1400
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p1057
+I0
+tp1058
+F-1279.1308557924444
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p1059
+I5
+tp1060
+I-400
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p1061
+I11
+tp1062
+I-900
+s(S"distance8['left', 'front', 'up']FalseTrue1"
+p1063
+I8
+tp1064
+I-400
+s(S"distance16['right', 'front', 'up']FalseFalse4"
+p1065
+I11
+tp1066
+I3400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p1067
+I1
+tp1068
+F-1758.9202786096448
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p1069
+I6
+tp1070
+I-1800
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p1071
+I7
+tp1072
+F-943.50942152896
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p1073
+I10
+tp1074
+I-400
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p1075
+I11
+tp1076
+I-900
+s(S"distance14['right', 'front', 'up']FalseTrue2"
+p1077
+I4
+tp1078
+F-2088.830533470015
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p1079
+I11
+tp1080
+I-1400
+s(S"distance11['right', 'back', 'up']FalseTrue2"
+p1081
+I0
+tp1082
+I-400
+s(S"distance11['left', 'front', 'up']FalseTrue3"
+p1083
+I9
+tp1084
+I-400
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p1085
+I11
+tp1086
+I-1400
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p1087
+I6
+tp1088
+F-993.4683917485223
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p1089
+I5
+tp1090
+I-1800
+s(S"distance14['right', 'back', 'up']FalseTrue2"
+p1091
+I5
+tp1092
+I-400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p1093
+I13
+tp1094
+I-900
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p1095
+I7
+tp1096
+F-2109.220188448548
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p1097
+I13
+tp1098
+I-900
+s(S"distance10['left', 'front', 'up']FalseTrue3"
+p1099
+I7
+tp1100
+I-2400
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p1101
+I6
+tp1102
+F-582.2745909337862
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p1103
+I11
+tp1104
+F-827.6
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p1105
+I12
+tp1106
+F-232.54560000000038
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p1107
+I3
+tp1108
+I-400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p1109
+I3
+tp1110
+I-400
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p1111
+I10
+tp1112
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p1113
+I0
+tp1114
+F-797.8736299107311
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p1115
+I10
+tp1116
+F-857.8285811756209
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p1117
+I13
+tp1118
+I-900
+s(S"distance9['right', 'front', 'up']FalseTrue3"
+p1119
+I5
+tp1120
+I-400
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p1121
+I0
+tp1122
+F-305.6235439924195
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p1123
+I7
+tp1124
+I-400
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p1125
+I2
+tp1126
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p1127
+I2
+tp1128
+F-1088.8961147824
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p1129
+I8
+tp1130
+F-1101.7198742015516
+s(S"distance1['left', 'front', 'up']FalseTrue3"
+p1131
+I2
+tp1132
+F832.7296684458138
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p1133
+I8
+tp1134
+I-1800
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p1135
+I12
+tp1136
+I-1400
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p1137
+I12
+tp1138
+I-1900
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p1139
+I7
+tp1140
+F-967.7963851269662
+s(S"distance15['right', 'front', 'up']FalseTrue3"
+p1141
+I5
+tp1142
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p1143
+I2
+tp1144
+F-2126.7790590853588
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p1145
+I5
+tp1146
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p1147
+I3
+tp1148
+F-536.3193192399583
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p1149
+I4
+tp1150
+F-720.29
+s(S"distance14['right', 'back', 'up']FalseTrue2"
+p1151
+I12
+tp1152
+I-900
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p1153
+I6
+tp1154
+I-400
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p1155
+I12
+tp1156
+I-900
+s(S"distance14['left', 'back', 'up']FalseTrue2"
+p1157
+I10
+tp1158
+I-400
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p1159
+I9
+tp1160
+F-688.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p1161
+I0
+tp1162
+F-688.0
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p1163
+I6
+tp1164
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p1165
+I11
+tp1166
+I-1400
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p1167
+I3
+tp1168
+I-2400
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p1169
+I4
+tp1170
+I-400
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p1171
+I9
+tp1172
+F-347.48980017679844
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p1173
+I10
+tp1174
+F-867.9456077616863
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p1175
+I7
+tp1176
+I-400
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p1177
+I9
+tp1178
+F-906.7186996694186
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p1179
+I12
+tp1180
+I-1400
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p1181
+I11
+tp1182
+I-1400
+s(S"distance7['left', 'front', 'up']FalseTrue3"
+p1183
+I7
+tp1184
+I-400
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p1185
+I9
+tp1186
+F-573.1437909382144
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p1187
+I4
+tp1188
+F-687.9974598399999
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p1189
+I5
+tp1190
+F-602.7418298417956
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p1191
+I5
+tp1192
+F-1013.0580822814323
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p1193
+I10
+tp1194
+F-688.0
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p1195
+I8
+tp1196
+I-1400
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p1197
+I8
+tp1198
+F-570.1128833038505
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p1199
+I12
+tp1200
+F-842.0
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p1201
+I7
+tp1202
+F-893.7073322043757
+s(S"distance7['right', 'front', 'up']FalseTrue1"
+p1203
+I9
+tp1204
+I-400
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p1205
+I7
+tp1206
+I-2400
+s(S"distance13['left', 'front', 'up']FalseTrue1"
+p1207
+I1
+tp1208
+I-1600
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p1209
+I8
+tp1210
+I-1400
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p1211
+I11
+tp1212
+I-1900
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p1213
+I0
+tp1214
+F-688.0
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p1215
+I11
+tp1216
+I-900
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p1217
+I10
+tp1218
+F848.4687112017926
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p1219
+I13
+tp1220
+I-900
+s(S"distance8['right', 'front', 'up']FalseTrue1"
+p1221
+I3
+tp1222
+I-400
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p1223
+I7
+tp1224
+F-936.3767451540923
+s(S"distance12['right', 'front', 'up']FalseFalse4"
+p1225
+I5
+tp1226
+F-2210.8678063276166
+s(S"distance15['left', 'front', 'up']FalseTrue3"
+p1227
+I1
+tp1228
+F-2120.0
+s(S"distance11['right', 'front', 'up']FalseFalse4"
+p1229
+I2
+tp1230
+F-855.3324487862909
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p1231
+I0
+tp1232
+F-184.40715620421813
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p1233
+I10
+tp1234
+F-301.57568000000003
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p1235
+I9
+tp1236
+I-1400
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p1237
+I8
+tp1238
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p1239
+I4
+tp1240
+F-2176.657221702366
+s(S"distance12['left', 'front', 'up']FalseTrue2"
+p1241
+I3
+tp1242
+F-729.3723546792666
+s(S"distance8['right', 'front', 'up']FalseFalse4"
+p1243
+I7
+tp1244
+I-400
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p1245
+I1
+tp1246
+F-431.3390617051228
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p1247
+I10
+tp1248
+F769.741015517603
+s(S"distance7['right', 'front', 'up']FalseTrue2"
+p1249
+I3
+tp1250
+F-2.321059680499445
+s(S"distance14['right', 'front', 'up']FalseFalse4"
+p1251
+I9
+tp1252
+I-1400
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p1253
+I11
+tp1254
+F-898.421
+s(S"distance7['right', 'front', 'up']FalseTrue3"
+p1255
+I2
+tp1256
+F494.04672
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p1257
+I13
+tp1258
+I-1400
+s(S"distance1['left', 'front', 'up']FalseFalse4"
+p1259
+I3
+tp1260
+F-160.00580091857915
+s(S"distance14['left', 'front', 'up']FalseTrue3"
+p1261
+I11
+tp1262
+I-1900
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p1263
+I8
+tp1264
+F-2190.307794826351
+s(S"distance14['left', 'front', 'up']FalseTrue2"
+p1265
+I10
+tp1266
+I-400
+s(S"distance7['right', 'front', 'up']FalseFalse4"
+p1267
+I1
+tp1268
+F478.02087677589435
+s(S"distance12['left', 'front', 'up']FalseTrue3"
+p1269
+I3
+tp1270
+F-2116.2475697462173
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p1271
+I1
+tp1272
+I-1600
+s(S"distance9['right', 'front', 'up']FalseTrue1"
+p1273
+I0
+tp1274
+F-924.16
+s(S"distance10['left', 'front', 'up']FalseTrue1"
+p1275
+I0
+tp1276
+I-400
+s(S"distance15['left', 'back', 'up']FalseTrue2"
+p1277
+I10
+tp1278
+F-32.0
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p1279
+I5
+tp1280
+F-334.68429887840813
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p1281
+I8
+tp1282
+F-688.0
+s(S"distance9['left', 'front', 'up']FalseTrue2"
+p1283
+I7
+tp1284
+I-400
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p1285
+I5
+tp1286
+I-400
+s(S"distance8['left', 'front', 'up']FalseTrue1"
+p1287
+I10
+tp1288
+I-400
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p1289
+I0
+tp1290
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p1291
+I3
+tp1292
+F-949.2763059785889
+s(S"distance11['left', 'front', 'up']FalseTrue1"
+p1293
+I5
+tp1294
+F-714.8734696963502
+s(S"distance13['left', 'front', 'up']FalseFalse4"
+p1295
+I8
+tp1296
+F-659.2
+s(S"distance11['left', 'front', 'up']FalseTrue2"
+p1297
+I2
+tp1298
+I-2400
+s(S"distance15['right', 'back', 'up']FalseTrue2"
+p1299
+I6
+tp1300
+F399.97925
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p1301
+I9
+tp1302
+F-679.7770276965507
+s(S"distance10['right', 'front', 'up']FalseTrue3"
+p1303
+I1
+tp1304
+F-1744.96
+s(S"distance11['right', 'front', 'up']FalseTrue1"
+p1305
+I4
+tp1306
+I-2400
+s(S"distance9['left', 'front', 'up']FalseFalse4"
+p1307
+I10
+tp1308
+I-400
+s(S"distance10['right', 'front', 'up']FalseTrue2"
+p1309
+I4
+tp1310
+F-815.8608725305514
+s(S"distance13['left', 'front', 'up']FalseTrue2"
+p1311
+I12
+tp1312
+F-320.0
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p1313
+I10
+tp1314
+F-630.4
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p1315
+I3
+tp1316
+I-400
+s(S"distance10['right', 'front', 'up']FalseFalse4"
+p1317
+I1
+tp1318
+F-1556.9779269412713
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p1319
+I11
+tp1320
+I-900
+s(S"distance14['left', 'front', 'up']FalseTrue1"
+p1321
+I8
+tp1322
+I-400
+s(S"distance14['left', 'back', 'up']FalseTrue2"
+p1323
+I1
+tp1324
+I-2800
+s(S"distance11['left', 'front', 'up']FalseFalse4"
+p1325
+I2
+tp1326
+F-924.16
+s(S"distance13['right', 'front', 'up']FalseTrue1"
+p1327
+I10
+tp1328
+F-1028.335218412988
+s(S"distance9['right', 'front', 'up']FalseFalse4"
+p1329
+I12
+tp1330
+I-900
+s(S"distance13['right', 'front', 'up']FalseFalse4"
+p1331
+I7
+tp1332
+F-2075.4428800000005
+s(S"distance6['right', 'front', 'up']FalseTrue2"
+p1333
+I13
+tp1334
+I-1400
+s(S"distance13['right', 'front', 'up']FalseTrue2"
+p1335
+I1
+tp1336
+I-1600
+s(S"distance9['right', 'front', 'up']FalseTrue2"
+p1337
+I6
+tp1338
+I-1400
+s(S"distance13['right', 'front', 'up']FalseTrue3"
+p1339
+I4
+tp1340
+F-679.0616
+s(S"distance8['right', 'front', 'up']FalseTrue2"
+p1341
+I2
+tp1342
+F-495.7275042701177
+s(S"distance10['left', 'front', 'up']FalseFalse4"
+p1343
+I1
+tp1344
+F-629.1513928982622
+s(S"distance14['right', 'front', 'up']FalseTrue3"
+p1345
+I7
+tp1346
+F-251.54461878077473
+s(S"distance12['left', 'front', 'up']FalseTrue1"
+p1347
+I4
+tp1348
+F-1218.0131942521075
+s(S"distance8['left', 'front', 'up']FalseFalse4"
+p1349
+I6
+tp1350
+I400
+s(S"distance12['right', 'front', 'up']FalseTrue1"
+p1351
+I10
+tp1352
+F-961.313253537691
+s(S"distance2['right', 'front', 'up']FalseTrue3"
+p1353
+I13
+tp1354
+I-900
+s(S"distance14['right', 'front', 'up']FalseTrue1"
+p1355
+I5
+tp1356
+I-400
+s(S"distance9['left', 'front', 'up']FalseTrue1"
+p1357
+I1
+tp1358
+I-400
+s(S"distance12['right', 'front', 'up']FalseTrue3"
+p1359
+I0
+tp1360
+F-784.0668164305986
+s(S"distance11['right', 'front', 'up']FalseTrue2"
+p1361
+I8
+tp1362
+F-1330.7649366022072
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p1363
+I5
+tp1364
+F-922.9977935014134
+s(S"distance12['left', 'front', 'up']FalseFalse4"
+p1365
+I2
+tp1366
+F-929.9365573030093
+s(S"distance11['right', 'front', 'up']FalseTrue3"
+p1367
+I13
+tp1368
+I-900
+s(S"distance14['right', 'back', 'up']FalseTrue2"
+p1369
+I10
+tp1370
+F-32.0
+s(S"distance10['right', 'front', 'up']FalseTrue1"
+p1371
+I2
+tp1372
+F-1265.7344542238413
+s(S"distance13['left', 'front', 'up']FalseTrue3"
+p1373
+I4
+tp1374
+F-2088.3200000000006
+s(S"distance10['left', 'front', 'up']FalseTrue2"
+p1375
+I13
+tp1376
+I-900
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p1377
+I9
+tp1378
+F-1317.095660163282
+s(S"distance12['right', 'front', 'up']FalseTrue2"
+p1379
+I11
+tp1380
+F-741.44159856
+s(S"distance14['left', 'back', 'up']FalseTrue2"
+p1381
+I8
+tp1382
+F-112.0
+s.

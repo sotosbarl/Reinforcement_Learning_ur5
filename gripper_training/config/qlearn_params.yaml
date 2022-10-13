@@ -1,0 +1,11 @@
+# Algortihm Parameters
+alpha: 0.5
+gamma: 0.8  #0.8
+epsilon: 0.9 #0.27
+epsilon_discount: 0.99 # 1098 eps to reach 0.1
+nepisodes: 1200
+nsteps: 12
+
+# Environment Parameters
+
+running_step: 0.3   # in seconds
