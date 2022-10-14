@@ -53,7 +53,7 @@ class Ur5GripperEnv(gym.Env):
         self.gazebo = GazeboConnection()
         self.controllers_object = ControllersConnection(namespace="monoped")
 
-        self.action_space = spaces.Discrete(5) #Forward,Left,Right,Up,Down
+        self.action_space = spaces.Discrete(5) #Forward,Down,pitch up, pitch down, gripping
         self.reward_range = (-np.inf, np.inf)
         self._seed()
 
